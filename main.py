@@ -1,5 +1,5 @@
 import random
-from colorama import Fore, Style
+from colorama import Fore, Style, Back
 print("------------------- 1 užduotis -------------------")
 print()
 arr1=[]
@@ -103,6 +103,4 @@ print(f"{Fore.CYAN}D kiekis: {count_D}{Style.RESET_ALL}")
 
 print("------------------- 4 užduotis -------------------")
 
-#git config --global user.name "AdomasSl"
-
-#git config --global user.email "adomas.slusnys@gmail.com"
+#pakeitimai
